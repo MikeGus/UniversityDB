@@ -1,0 +1,6 @@
+C:\bmstu\sem5\database\РК4\part2\part2\bin\Debug\part2.exe.config
+C:\bmstu\sem5\database\РК4\part2\part2\obj\Debug\part2.csprojResolveAssemblyReference.cache
+C:\bmstu\sem5\database\РК4\part2\part2\bin\Debug\part2.exe
+C:\bmstu\sem5\database\РК4\part2\part2\bin\Debug\part2.pdb
+C:\bmstu\sem5\database\РК4\part2\part2\obj\Debug\part2.exe
+C:\bmstu\sem5\database\РК4\part2\part2\obj\Debug\part2.pdb
